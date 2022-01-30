@@ -22,3 +22,8 @@ https://www.geeksforgeeks.org/strlen-function-in-c/
 
 Error Stray 344 (ä,ü,ö, ß issue):
 https://stackoverflow.com/questions/57737029/what-does-error-stray-344-in-program-mean
+
+
+getch():
+
+https://www.journaldev.com/42088/getch-function-in-c-plus-plus
